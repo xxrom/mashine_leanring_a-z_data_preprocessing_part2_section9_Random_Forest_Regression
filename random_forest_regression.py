@@ -3,7 +3,6 @@
 # с точками случаными  k в [1, n] из всех точек и потом во время предсказания
 # берется среднее по всем моделям
 
-
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
